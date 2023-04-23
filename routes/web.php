@@ -22,7 +22,7 @@ Route::get('config-clear', function () {
 });
 
 
-Auth::routes();  
+Auth::routes();
 
 //Route::get('/', 'HomeController@index')->name('home');
 
